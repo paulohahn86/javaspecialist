@@ -5,10 +5,14 @@ https://www.algaworks.com
 
 The is in topics for better understanding of each functionality presented.
 
- -> AbstractClasses /n
- -> EncapsulationObjects /n
+ -> AbstractClasses
+ 
+ -> EncapsulationObjects
+ 
  -> Polymorphism
+ 
  -> Inheritance
+ 
  -> Serializable
  -> Collections
  -> Interface
