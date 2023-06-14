@@ -14,15 +14,25 @@ The is in topics for better understanding of each functionality presented.
  -> Inheritance
  
  -> Serializable
+ 
  -> Collections
+ 
  -> Interface
+ 
  -> Generics
+ 
  -> Lambda
+ 
  -> Method Reference
+ 
  -> Exceptions
+ 
  -> LogIn
+ 
  -> Optional
+ 
  -> Streams
+ 
  
  
  
