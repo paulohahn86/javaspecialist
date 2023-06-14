@@ -13,6 +13,10 @@ The is in topics for better understanding of each functionality presented.
  
  -> Inheritance
  
+ -> Objects Composition
+ 
+ -> Enumeration
+ 
  -> Serializable
  
  -> Collections
@@ -28,6 +32,8 @@ The is in topics for better understanding of each functionality presented.
  -> Exceptions
  
  -> LogIn
+ 
+ -> JDBC
  
  -> Optional
  
