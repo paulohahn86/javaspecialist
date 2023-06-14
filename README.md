@@ -7,7 +7,7 @@ The is in topics for better understanding of each functionality presented.
 
  -> AbstractClasses
  
- -> EncapsulationObjects
+ -> Object Encapsulation
  
  -> Polymorphism
  
@@ -27,7 +27,7 @@ The is in topics for better understanding of each functionality presented.
  
  -> Lambda
  
- -> Method Reference
+ -> Reference Method
  
  -> Exceptions
  
