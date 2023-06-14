@@ -1,0 +1,10 @@
+2023-05-17 11:24:28 DEBUG c.a.bank.Main - Transition beginning 
+2023-05-17 11:24:28 INFO  c.a.b.CurrentAccount - 2600 - 873651 *** R$ 100 *** Deposit realized! 
+2023-05-17 11:24:28 INFO  c.a.b.CurrentAccount - 2600 - 873651 *** R$ 400 *** Deposit realized! 
+2023-05-17 11:24:28 INFO  c.a.b.CurrentAccount - 2600 - 873651 *** R$ 110 *** WithDraw realized! 
+2023-05-17 11:24:28 DEBUG c.a.bank.Main - Transition finalized 
+2023-05-17 11:24:48 DEBUG c.a.bank.Main - Transition beginning 
+2023-05-17 11:24:48 INFO  c.a.b.CurrentAccount - 2600 - 873651 *** R$ 100 *** Deposit realized! 
+2023-05-17 11:24:48 INFO  c.a.b.CurrentAccount - 2600 - 873651 *** R$ 400 *** Deposit realized! 
+2023-05-17 11:24:48 INFO  c.a.b.CurrentAccount - 2600 - 873651 *** R$ 110 *** WithDraw realized! 
+2023-05-17 11:24:48 DEBUG c.a.bank.Main - Transition finalized 

@@ -1,0 +1,23 @@
+<configuration>
+    <appender name="patternOutput" class="ch.qos.logback.core.ConsoleAppender">
+        <encoder>
+            <pattern>%date{yyyy-MM-dd HH:mm:ss} %highlight(%-5level) %logger{20} - %message %n</pattern>
+        </encoder>
+    </appender>
+
+    <appender name="file" class="ch.qos.logback.core.FileAppender">
+        <file>LogIn/login.log</file>
+        <appende>true</appende>
+        <encoder>
+            <pattern>%date{yyyy-MM-dd HH:mm:ss} %-5level %logger{20} - %message %n</pattern>
+        </encoder>
+    </appender>
+
+    <logger name="com.algaworks.bank.Main" level="TRACE"/>
+    <root level="INFO">
+        <appender-ref ref = "patternOutput"/>
+        <appender-ref ref = "file"/>
+    </root>
+
+
+</configuration>

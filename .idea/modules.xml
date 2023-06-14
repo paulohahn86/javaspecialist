@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AbstractClasses/AbstractClasses.iml" filepath="$PROJECT_DIR$/AbstractClasses/AbstractClasses.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Annotation/Annotation.iml" filepath="$PROJECT_DIR$/Annotation/Annotation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Collections-List/Collections-List.iml" filepath="$PROJECT_DIR$/Collections-List/Collections-List.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Collections-Map/Collections-Map.iml" filepath="$PROJECT_DIR$/Collections-Map/Collections-Map.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Collections-Set/Collections-Set.iml" filepath="$PROJECT_DIR$/Collections-Set/Collections-Set.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CompositionObjects/CompositionObjects.iml" filepath="$PROJECT_DIR$/CompositionObjects/CompositionObjects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DateAndTime/DateAndTime.iml" filepath="$PROJECT_DIR$/DateAndTime/DateAndTime.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EncapsulationJavaBeans/EncapsulationJavaBeans.iml" filepath="$PROJECT_DIR$/EncapsulationJavaBeans/EncapsulationJavaBeans.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Enumeration/Enumeration.iml" filepath="$PROJECT_DIR$/Enumeration/Enumeration.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exceptions/Exceptions.iml" filepath="$PROJECT_DIR$/Exceptions/Exceptions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FunctionsInterfaceMethodReference/FunctionsInterfaceMethodReference.iml" filepath="$PROJECT_DIR$/FunctionsInterfaceMethodReference/FunctionsInterfaceMethodReference.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Generics/Generics.iml" filepath="$PROJECT_DIR$/Generics/Generics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Inheritance/Inheritance.iml" filepath="$PROJECT_DIR$/Inheritance/Inheritance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/InputOutputNIO2/InputOutputNIO2.iml" filepath="$PROJECT_DIR$/InputOutputNIO2/InputOutputNIO2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Interface/Interface.iml" filepath="$PROJECT_DIR$/Interface/Interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lambda/Lambda.iml" filepath="$PROJECT_DIR$/Lambda/Lambda.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MemoryJava/MemoryJava.iml" filepath="$PROJECT_DIR$/MemoryJava/MemoryJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NestedClasses/NestedClasses.iml" filepath="$PROJECT_DIR$/NestedClasses/NestedClasses.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Number/Number.iml" filepath="$PROJECT_DIR$/Number/Number.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Optional/Optional.iml" filepath="$PROJECT_DIR$/Optional/Optional.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OverheadMethod/OverheadMethod.iml" filepath="$PROJECT_DIR$/OverheadMethod/OverheadMethod.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PlymorphismAbstractClasses/PlymorphismAbstractClasses.iml" filepath="$PROJECT_DIR$/PlymorphismAbstractClasses/PlymorphismAbstractClasses.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Serializable/Serializable.iml" filepath="$PROJECT_DIR$/Serializable/Serializable.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Static Members/Static Members.iml" filepath="$PROJECT_DIR$/Static Members/Static Members.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StreamAPI/StreamAPI.iml" filepath="$PROJECT_DIR$/StreamAPI/StreamAPI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/String/String.iml" filepath="$PROJECT_DIR$/String/String.iml" />
+      <module fileurl="file://$PROJECT_DIR$/VisibilityPackageBuilders/VisibilityPackageBuilders.iml" filepath="$PROJECT_DIR$/VisibilityPackageBuilders/VisibilityPackageBuilders.iml" />
+      <module fileurl="file://$PROJECT_DIR$/VisibilityPackageBuilders/src/br.com.algamilhas/br.com.algamilhas.iml" filepath="$PROJECT_DIR$/VisibilityPackageBuilders/src/br.com.algamilhas/br.com.algamilhas.iml" />
+    </modules>
+  </component>
+</project>
